@@ -1,0 +1,20 @@
+body {
+    background: url(imgs/fundo1.jpg);
+    font-family: Calibri;
+}
+
+#formLogin {
+    background-color: rgb(255, 255, 255, 0.8);
+    width: 400px;
+    margin: auto;
+    font-size: 26px;
+    padding: 10px;
+    padding-top: 0px;
+    border: 2px solid fuchsia;
+
+}
+
+#formLogin h1 {
+    color: fuchsia;
+    margin: 0%;
+}
