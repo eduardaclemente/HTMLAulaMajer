@@ -1,0 +1,29 @@
+body {
+    background: url(imgs/fundo.jpg);
+    background-size: cover;
+    font-family: Comic Sans MS;
+    color: navy;
+}
+
+#frmLogin {
+    background-color: rgb(192, 192, 192, 1);
+    width: 500px;
+    margin: auto;
+    margin-bottom: 10px;
+    border: 4px ridge yellow;
+    padding: 5px;
+
+}
+
+#principal {
+    background-color: rgb(192, 192, 192, 0.8);
+    width: 550px;
+    margin: auto;
+    border: 12px ridge fuchsia;
+}
+
+#principal h1 {
+    text-align: center;
+}
+
+INPUT, select, textarea {background-color: lightblue;}
